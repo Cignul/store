@@ -8,3 +8,4 @@ function cartUpdated() {
 
 }
 //checkout function maybe?
+export default "cart.js"
